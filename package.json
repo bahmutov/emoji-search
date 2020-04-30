@@ -4,6 +4,8 @@
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/emoji-search",
   "devDependencies": {
+    "cypress": "4.5.0",
+    "cypress-react-unit-test": "4.0.1",
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
     "react-scripts": "^3.0.1"

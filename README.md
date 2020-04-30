@@ -1,18 +1,9 @@
-Emoji Search
----
+# Emoji Search
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Shows Cypress + [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test) component test. See [src/App.spec.js](src/App.spec.js) for example.
 
+![App spec test](images/emoji.png)
 
+Component tests have built-in code coverage
 
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+![Coverage](images/emoji-coverage.png)
